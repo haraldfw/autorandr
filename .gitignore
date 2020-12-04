@@ -1,0 +1,8 @@
+/bin
+/.go
+/.push-*
+/.container-*
+/.idea/*
+/.vscode
+/docs/docs.go
+

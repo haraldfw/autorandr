@@ -1,0 +1,4 @@
+debug: true
+
+# camelCase for yaml-variables when used with Go
+pingResponse: pong
